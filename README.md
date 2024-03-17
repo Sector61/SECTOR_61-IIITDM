@@ -53,3 +53,11 @@ code : python detect.py --weight best.pt --source testing
 'here testing is a folder name that contains the images of the insulaotres
 
 step 6 : we can aslo use viedos for the model</h3>
+
+
+
+NAME                       EMAIL
+kishorekumar               kishoresudeep1212@gamil.com
+jayaprakash                karthickmurali07@gmail.com
+karthick                   karthickmurali07@gmail.com
+ezhilarasan               rpje233333@gmail.com
