@@ -22,6 +22,6 @@ The system utilizes the Jetson Nano platform mounted onto a drone for efficient 
 
 The system combines AI technology, edge computing, drone-based inspection, and geofencing to facilitate proactive maintenance of power infrastructure.
 
-[for training the dataset has been taken form] (https://app.roboflow.com/simple-3btlb/insulator-inspection-kq32m/1)
+[for training the dataset has been taken form](https://app.roboflow.com/simple-3btlb/insulator-inspection-kq32m/1)
 
 [we trainned the model in the google colab and the link is provided](https://colab.research.google.com/drive/1PCnqLbyeMNyjEbXZ7ToCNfvQl6mShm6o?usp=sharing)
