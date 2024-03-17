@@ -1,3 +1,5 @@
+![the output of the model](https://github.com/Sector61/SECTOR_61-IIITDM/blob/main/Screenshot%20from%202024-03-16%2006-51-21.png)
+![the Map of the model is 92.87%](https://github.com/Sector61/SECTOR_61-IIITDM/blob/main/Screenshot%20from%202024-03-16%2006-51-37.png)
 <h3>Insulator Defect Detection System for Power Transmission Lines<h3>
 
 This project introduces an innovative approach for detecting insulator defects on power transmission lines using advanced AI technology.
